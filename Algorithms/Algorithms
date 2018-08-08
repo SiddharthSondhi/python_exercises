@@ -1,0 +1,23 @@
+'''
+def get_hcf(n, m):
+    if n % m == 0:
+        return m
+    else :
+        return get_hcf(m, n % m)
+
+c = get_hcf(18, 7)
+
+print (c)
+'''
+
+'''
+def get_factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return (n * get_factorial(n-1))
+
+f = get_factorial(5)
+
+print (f)
+'''

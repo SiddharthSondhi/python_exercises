@@ -1,0 +1,8 @@
+.git
+.idea
+file exercises
+file_list.txt
+file_now.txt
+file_path.txt
+file_username_password.txt
+README.md
